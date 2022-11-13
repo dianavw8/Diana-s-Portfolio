@@ -26,6 +26,10 @@ For more help and information achiving this, check out the following website: ht
 ## Usage
 The refactored website can be found at: https://dianavw8.github.io/Diana-s-Portfolio/
 
+The following image demonstrates the web application's appearance and functionality:
+![Diana's Portfolio webpage includes links to different projects.](Images/DianasPortfolioImage.jpg)
+
+
 ## Lessons Learned
 Throughout this project, I learned the importance of maintain my portfolio updated with new projects and applications completed. I will continue to improve the appearance of the portfolio as I gain more experience and knowledge.
 
